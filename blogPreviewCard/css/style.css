@@ -68,6 +68,12 @@ body {
     font-weight: var(--bolder);
 }
 
+
+#card-title:hover{
+    cursor: pointer;
+    color: var(--main-color);
+}
+
 #card-text {
     margin-bottom: 2rem;
     font-weight: var(--bold);
